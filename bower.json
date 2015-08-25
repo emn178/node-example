@@ -1,0 +1,19 @@
+{
+  "name": "node-example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/emn178/node-example",
+  "authors": [
+    "Yi-Cyuan <yicyuan.chen@lileesystems.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
