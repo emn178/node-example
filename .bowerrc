@@ -1,0 +1,9 @@
+{
+  "registry": {
+    "register": "http://10.2.51.59:5678",
+    "search": [
+      "http://10.2.51.59:5678",
+      "https://bower.herokuapp.com"
+    ]
+  }
+}
