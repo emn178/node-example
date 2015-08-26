@@ -1,22 +1,9 @@
 {
   "name": "node-example",
-  "version": "0.1.0",
-  "description": "A node.js website.",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/emn178/node-example.git"
-  },
-  "keywords": [
-    "node"
-  ],
-  "license": "MIT",
-  "author": "emn178 <emn178@gmail.com>",
-  "homepage": "https://github.com/emn178/node-example",
-  "bugs": {
-    "url": "https://github.com/emn178/node-example/issues"
-  },
   "dependencies": {
     "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.0"
   }
 }
